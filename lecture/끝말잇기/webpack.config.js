@@ -9,7 +9,7 @@ module.exports = {
   },
   
   entry: {
-     app:['./client', './WordRelay'],
+     app:['./client'],
   }, // 입력
   module: {
     rules:[{
